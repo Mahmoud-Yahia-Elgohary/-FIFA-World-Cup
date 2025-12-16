@@ -1,0 +1,23 @@
+YEAR,HOST,CHAMPION,TEAMS,GOALS SCORED,AVG GOALS PER GAME,Host_Continent,Era
+1930,Uruguay,Uruguay,13,70,3.6,South America,Early Years
+1934,Italy,Italy,16,70,4.1,Europe,Early Years
+1938,France,Italy,15,84,4.7,Europe,Early Years
+1950,Brazil,Uruguay,13,88,4.0,South America,Early Years
+1954,Switzerland,West Germany,16,140,5.4,Europe,Early Years
+1958,Sweden,Brazil,16,126,3.6,Europe,Early Years
+1962,Chile,Brazil,16,89,2.8,South America,Early Years
+1966,England,England,16,89,2.8,Europe,Early Years
+1970,Mexico,Brazil,16,95,3.0,North America,Early Years
+1974,West Germany,West Germany,16,97,2.6,Europe,Modern Era
+1978,Argentina,Argentina,16,102,2.7,South America,Modern Era
+1982,Spain,Italy,24,146,2.8,Europe,Modern Era
+1986,Mexico,Argentina,24,132,2.5,North America,Modern Era
+1990,Italy,West Germany,24,115,2.2,Europe,Modern Era
+1994,United States,Brazil,24,141,2.7,North America,Modern Era
+1998,France,France,32,171,2.7,Europe,Modern Era
+2002,"South Korea, Japan",Brazil,32,161,2.5,Asia/Africa,Modern Era
+2006,Germany,Italy,32,147,2.3,Europe,Modern Era
+2010,South Africa,Spain,32,145,2.3,Asia/Africa,Modern Era
+2014,Brazil,Germany,32,171,2.7,South America,Modern Era
+2018,Russia,France,32,169,2.6,Asia/Africa,Modern Era
+2022,Qatar,Argentina,32,172,2.7,North America,Modern Era
